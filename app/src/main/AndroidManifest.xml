@@ -16,7 +16,7 @@
         <activity android:name="co.canytech.films.MovieActivity">
 
         </activity>
-        <activity android:name="co.canytech.films.MainActivity">
+        <activity android:name=".kotlin.MainActivity">
             <intent-filter>
                 <action android:name="android.intent.action.MAIN" />
 
